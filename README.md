@@ -17,9 +17,9 @@ I'm an enthusiastic software development student with a passion for programming 
 
 ### 🌟 Skills
 
--Frontend: HTML, CSS, JavaScript
--Backend: Java, .Net, Object-Oriented Programming, Data Structures
--Database: MySQL, SQL Server
+- Frontend: HTML, CSS, JavaScript <br>
+- Backend: Java, .Net, Object-Oriented Programming, Data Structures <br>
+- Database: MySQL, SQL Server
 
 ☕ Wanna chat?
 💌 Contact me through Email or Linkedin.
