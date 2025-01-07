@@ -10,15 +10,14 @@ I'm an enthusiastic software development student with a passion for programming 
 
 ### 🛠️ Technologies
 
-- Java Servlet MVC, WEB API
+- Languages: C++, C#, Java, SQL, JavaScript, HTML
 - Object-Oriented Programming (OOP), MVC Design Pattern
-- Languages: Java, SQL, JavaScript, HTML
 - Workspace: Eclipse, MySQL, Visual Code, GitHub
 
 ### 🌟 Skills
 
 - Frontend: HTML, CSS, JavaScript <br>
-- Backend: Java, .Net, Object-Oriented Programming, Data Structures <br>
+- Backend: C++, Java, C# .Net, <br>
 - Database: MySQL, SQL Server
 
 ☕ Wanna chat?
